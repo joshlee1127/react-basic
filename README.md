@@ -1,6 +1,6 @@
 # React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!
 
-參考影片[Youtube](https://www.youtube.com/watch?v=Dorf8i6lCuk&list=RDCMUCSJbGtTlrDami-tDGPUV9-w&start_radio=1&rv=Dorf8i6lCuk&t=13350)
+參考影片[React Crash Course for Beginners 2021](https://www.youtube.com/watch?v=Dorf8i6lCuk&list=RDCMUCSJbGtTlrDami-tDGPUV9-w&start_radio=1&rv=Dorf8i6lCuk&t=13350)
 
 ## Available Scripts
 
